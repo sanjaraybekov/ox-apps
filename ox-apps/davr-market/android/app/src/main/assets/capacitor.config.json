@@ -1,0 +1,11 @@
+{
+	"appId": "com.example.app",
+	"appName": "Davr market",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"appId": "com.oxpos.app",
+	"appName": "OX POS",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

@@ -1,0 +1,9 @@
+include ':app'
+include ':capacitor-cordova-android-plugins'
+project(':capacitor-cordova-android-plugins').projectDir = new File('./capacitor-cordova-android-plugins/')
+
+apply from: 'capacitor.settings.gradle'
+
+//android{
+//    signingConfigs { debug { storeFile file('C:\\Users\\Windows 10\\AndroidStudioProjects\\annibolso_android\\upload_keystore.jks') storePassword 'anbs191108!' keyPassword 'anbs191108!' keyAlias 'upload' } }
+//}

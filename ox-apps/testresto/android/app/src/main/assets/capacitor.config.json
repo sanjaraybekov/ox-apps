@@ -1,0 +1,11 @@
+{
+	"appId": "com.resto.app",
+	"appName": "RESTO",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

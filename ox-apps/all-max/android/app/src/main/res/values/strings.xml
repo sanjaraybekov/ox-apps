@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ALLMAX</string>
+    <string name="title_activity_main">ALLMAX</string>
+    <string name="package_name">com.allmax.com</string>
+    <string name="custom_url_scheme">com.allmax.com</string>
+</resources>

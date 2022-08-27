@@ -1,0 +1,11 @@
+{
+  "appId": "com.homeplus.app",
+  "appName": "Home+",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

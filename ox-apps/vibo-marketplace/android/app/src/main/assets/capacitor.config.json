@@ -1,0 +1,11 @@
+{
+	"appId": "com.vibo.com",
+	"appName": "Vibo Marketplace",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

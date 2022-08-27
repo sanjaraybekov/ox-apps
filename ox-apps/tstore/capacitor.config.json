@@ -1,0 +1,11 @@
+{
+  "appId": "com.tstore.app",
+  "appName": "tstore",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

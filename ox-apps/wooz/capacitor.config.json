@@ -1,0 +1,11 @@
+{
+  "appId": "com.wooz.app",
+  "appName": "wooz",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

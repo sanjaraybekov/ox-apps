@@ -1,0 +1,11 @@
+{
+	"appId": "com.allmax.com",
+	"appName": "ALLMAX",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

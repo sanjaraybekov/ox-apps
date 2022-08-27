@@ -1,0 +1,11 @@
+{
+  "appId": "com.telefonchi.app",
+  "appName": "telefonchi",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

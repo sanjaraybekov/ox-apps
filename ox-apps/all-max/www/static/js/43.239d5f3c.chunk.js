@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{646:function(n,e,t){"use strict";t.r(e);var a=t(0),c=t.n(a),l=t(4),o=t.n(l),r=c.a.lazy((function(){return t.e(28).then(t.bind(null,639))}));e.default=function(){switch(o.a.config.compareProductList){case 1:return c.a.createElement(r,{addClass:"col-lg-3 col-md-4 col-6"});default:return c.a.createElement(r,null)}}}}]);
+//# sourceMappingURL=43.239d5f3c.chunk.js.map

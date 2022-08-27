@@ -1,0 +1,1 @@
+"use strict";const getPackageType=require("./async.cjs"),getPackageTypeSync=require("./sync.cjs");module.exports=e=>getPackageType(e),module.exports.sync=getPackageTypeSync;

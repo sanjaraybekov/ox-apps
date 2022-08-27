@@ -1,0 +1,14 @@
+/* Global fonts */
+@font-face {
+	font-family: "GolosTextWebRegular";
+	src: url("../fonts/GolosText_Regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GolosTextWebBold";
+	src: url("../fonts/GolosText_Bold.ttf");
+	font-weight: 600;
+	font-style: bold;
+}

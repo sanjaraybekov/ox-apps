@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{649:function(n,e,l){"use strict";l.r(e);var t=l(0),a=l.n(t),c=l(6),u=l.n(c),o=a.a.lazy((function(){return Promise.all([l.e(0),l.e(42)]).then(l.bind(null,627))})),r=a.a.lazy((function(){return l.e(33).then(l.bind(null,642))}));e.default=function(){switch(u.a.config.choosenProductList){case 1:return a.a.createElement(o,{addClass:7===u.a.config.home?"col-lg-3 col-md-4 col-6":null});case 2:return a.a.createElement(r,null);default:return a.a.createElement(o,null)}}}}]);
+//# sourceMappingURL=43.73bffca7.chunk.js.map

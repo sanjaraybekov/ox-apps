@@ -1,0 +1,11 @@
+{
+	"appId": "com.gshop.app",
+	"appName": "G-SHOP",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

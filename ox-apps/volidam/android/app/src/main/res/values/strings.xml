@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Volidam</string>
+    <string name="title_activity_main">Volidam</string>
+    <string name="package_name">com.volidam.app</string>
+    <string name="custom_url_scheme">com.volidam.app</string>
+</resources>

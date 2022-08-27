@@ -1,0 +1,11 @@
+{
+	"appId": "com.volidam.app",
+	"appName": "Volidam",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

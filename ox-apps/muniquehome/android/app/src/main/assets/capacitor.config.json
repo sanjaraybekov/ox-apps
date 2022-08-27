@@ -1,0 +1,11 @@
+{
+	"appId": "com.muniquehome.app",
+	"appName": "Munique Home",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
